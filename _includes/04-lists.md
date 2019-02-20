@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Pizza
+  * Cheese pizza
+  * Hawaiian pizza
+  * Margherita pizza
+* Shrimp
+  * Boiled shrimp
+  * Fried shrimp
+  * Shrimp scampi
