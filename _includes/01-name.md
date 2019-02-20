@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Ed Roesch GitHub Lab
+
+##  This is testing md 
+
+##### Learning more formatting
